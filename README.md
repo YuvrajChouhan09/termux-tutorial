@@ -5,7 +5,7 @@ A comprehensive guide explaining **Termux** — its installation, features, usag
 ---
 
 ## 📚 Table of Contents
-- [Introduction](#introduction)
+- [Introduction](# introduction)
 - [Key Features](#key-features)
 - [Installation](#installation)
 - [Basic Usage](#basic-usage)
