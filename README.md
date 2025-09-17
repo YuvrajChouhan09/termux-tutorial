@@ -42,11 +42,11 @@ Termux is a powerful terminal emulator and Linux environment for Android. It all
 Note: You should use the F-Droid or GitHub version of Termux instead of the one on the Google Play Store. The Play Store version is often outdated, buggy, lacks functionality, and has previously been a source of security regressions and even a malicious, hijacked app. In contrast, F-Droid and GitHub versions are actively maintained, more stable, and generally considered safer.
 
 ### From F-Droid (Recommended)
-1. Download the F-Droid app from [f-droid.org](https://f-droid.org).
+Download the F-Droid app from [f-droid.org](https://f-droid.org).
 
 
 ### From GitHub APK
-1. Visit the [Termux GitHub Releases](https://github.com/termux/termux-app/releases).
+Visit the [Termux GitHub Releases](https://github.com/termux/termux-app/releases).
 
 ### Watch this tutorial for installation: [Video](https://youtu.be/V1-zzo-tCyI)
 
