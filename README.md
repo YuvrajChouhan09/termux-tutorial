@@ -43,7 +43,7 @@ Note: You should use the F-Droid or GitHub version of Termux instead of the one 
 
 ### From F-Droid (Recommended)
 1. Download the F-Droid app from [f-droid.org](https://f-droid.org).
-2. Search for **Termux** and install the latest version.
+2. Watch this tutorial for installation: [Vidoe](https://youtu.be/V1-zzo-tCyI)
 
 ### From GitHub APK
 1. Visit the [Termux GitHub Releases](https://github.com/termux/termux-app/releases).
