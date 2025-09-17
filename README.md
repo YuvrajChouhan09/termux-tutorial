@@ -38,7 +38,7 @@ Termux is a powerful terminal emulator and Linux environment for Android. It all
 ---
 
 ## 🚀 Installation
-# Note: Termux is a free and open-source Android app that turns your device into a powerful Linux terminal, enabling you to run a command-line interface and install various Linux software packages.
+## Note: Termux is a free and open-source Android app that turns your device into a powerful Linux terminal, enabling you to run a command-line interface and install various Linux software packages.
 ### From F-Droid (Recommended)
 1. Download the F-Droid app from [f-droid.org](https://f-droid.org).
 2. Search for **Termux** and install the latest version.
