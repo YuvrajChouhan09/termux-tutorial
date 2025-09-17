@@ -6,8 +6,8 @@ A comprehensive guide explaining **Termux** — its installation, features, usag
 
 ## 📚 Table of Contents
 - [Introduction](#-introduction)
-- [Key Features](#key-features)
-- [Installation](#installation)
+- [Key Features](#-key-features)
+- [Installation](#-installation)
 - [Basic Usage](#basic-usage)
 - [Advanced Usage](#advanced-usage)
 - [Security Considerations](#security-considerations)
@@ -48,7 +48,7 @@ Note: You should use the F-Droid or GitHub version of Termux instead of the one 
 ### From GitHub APK
 1. Visit the [Termux GitHub Releases](https://github.com/termux/termux-app/releases).
 
-### Watch this tutorial for installation: [Vidoe](https://youtu.be/V1-zzo-tCyI)
+### Watch this tutorial for installation: [Video](https://youtu.be/V1-zzo-tCyI)
 
 ⚙ Required permissions: Storage access, internet connection for package installation.
 
