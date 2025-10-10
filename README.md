@@ -88,17 +88,7 @@ to Google Play Protect flagging the F-Droid & Github version because it's built 
 - **Storage**: At least 300MB free space
 - **RAM**: 1GB+ recommended
 
-### Quick Setup
-```bash
-# After installation, update packages
-pkg update && pkg upgrade
-
-# Grant storage permission
-termux-setup-storage
-```
-
-## Getting Started
-
+### Quick Setup:-
 ### First Steps
 
 1. **Update System**
@@ -111,7 +101,7 @@ termux-setup-storage
    termux-setup-storage
    ```
 
-## Essential Commands
+## Essential Commands:-
 
 ### File Management
 ```bash
